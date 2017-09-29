@@ -522,7 +522,7 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- PHENOM CAF manifest -->
+  <!-- CAF manifest -->
   <include name="phenom_default.xml" />
 
   <!-- PHENOM CAF manifest -->
