@@ -13,7 +13,7 @@
            sync-c="true"
            sync-j="8" />
 		   
-	<remote  name="gzosp"
+  <remote  name="phenom"
            fetch="https://github.com/Phenom-AOSP" />
 
   <default revision="8.0"
