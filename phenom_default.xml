@@ -9,7 +9,7 @@
            revision="8.0" />
 		   
   <remote  name="phenom"
-           fetch="https://github.com/Phenom-AOSP" />
+           fetch="https://github.com/Phenom-OS" />
 
   <default revision="8.0"
            remote="phenom"
